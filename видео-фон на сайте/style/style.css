@@ -1,0 +1,17 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  margin: 0;
+}
+.section {
+  min-height: 100vh;
+  text-align: center;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  /* background: url(/video/1.jpg) no-repeat center / cover; */
+}
+
+  
